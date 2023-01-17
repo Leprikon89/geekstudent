@@ -46,6 +46,12 @@
 
 2. Законнектить локальный и удаленнный Репозиторий
 
-3. Отправить ваш локальный Репозиторий в удаленный **Git push**
+
+3. Отправить ваш локальный Репозиторий в удаленный 
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Leprikon89/geekstudent.git
+git branch -M main
+git push -u origin main
 
 
