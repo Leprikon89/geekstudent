@@ -53,4 +53,10 @@ git remote add origin https://github.com/Leprikon89/geekstudent.git
 git branch -M main
 git push -u origin main
 
+## Загрузка локального Репозитория на Удаленный.
+
+**Git push** - Грузит изменения на **Github**
+
+
+
 
